@@ -76,7 +76,7 @@ class Knearest:
         # majority function, and return the value.
 
         return self.majority(list(random.randrange(len(self._y)) \
-                                  for x in xrange(self._k)))
+                                  for x in range(self._k)))
 
     def confusion_matrix(self, test_x, test_y, debug=False):
         """
@@ -142,10 +142,10 @@ if __name__ == "__main__":
     print("Done loading data")
 
     confusion = knn.confusion_matrix(data.test_x, data.test_y)
-    print("\t" + "\t".join(str(x) for x in xrange(10)))
+    print("\t" + "\t".join(str(x) for x in range(10)))
     print("".join(["-"] * 90))
-    for ii in xrange(10):
+    for ii in range(10):
         print("%i:\t" % ii + "\t".join(str(confusion[ii].get(x, 0))
-                                       for x in xrange(10)))
+                                       for x in range(10)))
     print("Accuracy: %f" % knn.accuracy(confusion))
 
