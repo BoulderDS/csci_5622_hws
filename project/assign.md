@@ -47,7 +47,7 @@ A good proposal should
 
 ## Peer feedback for project proposal
 
-Each student will provide feedback to three projects from other groups on Piazza by 11:59pm on Oct 25. The feedback should use the following template:
+Each student will provide feedback to **one** projects from other groups on Piazza by 11:59pm on Oct 25. The feedback should use the following template:
 
 * What I like about this proposal
 * What I would have done differently (practical constructive feedback for improvements)
@@ -66,7 +66,7 @@ This presentation will happen on Nov 15. You slides are due at 11:59PM, Nov 14 o
 
 ## Midpoint peer feedback
 
-Each student will provide feedback to three projects from other groups on Piazza by 11:59pm on Nov 27. The feedback should use the following template:
+Each student will provide feedback to **one** projects from other groups on Piazza by 11:59pm on Nov 27. The feedback should use the following template:
 
 * What I like about the current progress
 * What I would improve over what has been done
